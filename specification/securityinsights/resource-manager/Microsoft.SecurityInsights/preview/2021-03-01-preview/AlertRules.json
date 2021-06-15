@@ -650,7 +650,7 @@
     "AlertRuleTemplate": {
       "allOf": [
         {
-          "$ref": "../../../common/1.0/types.json#/definitions/Resource"
+          "$ref": "../../../common/1.0/types.json#/definitions/ResourceWithSystemData"
         }
       ],
       "description": "Alert rule template.",
